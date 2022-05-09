@@ -1,0 +1,30 @@
+O que é DevOps ? Quais beneficios em adotar DevOps nas empresas ?
+É um conjunto de práticas que automatizam os processos no desenvolvimento de software e as equipes de Ti, para poderem assim criar, testar e liberar software.
+Quebra de brreiras entras os profissionais de TI.
+Otimização dos processos envolvidos no desenvolvimento.
+Menor tempo de olocação no mercados dos sistemas desenvolvimento.
+Vantagens competitiva.
+Capacidade gerenciamento.
+
+Quais são os pilares da cultura DevOps ? O que é CALMS ?
+A interação com a equipe.
+Forneceça microsserviços.
+Ser claro ao fazer declarações.
+Fala integração.
+
+Framework que estabelece os pilares do DevOps.
+
+O que faz um Engenheiro DevOps ?
+
+Utilizam uma série de ferramentas para automatizar as tepas no processo de desnvolvimento.
+
+O que é DevSecOps?
+
+Além do desnvolvimento, é voltado para a segurança.
+
+Principais ferramentas OpenSource para DevOps
+
+GItlab, Puppet, Ansible, Jenkins, Vagrant, oVirt, Docker, Zabbix.
+
+O que é CI/CD: integração e entrega contínuas ?
+CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são a integração, entrega e implantação contínuas. 
